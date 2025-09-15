@@ -1,2 +1,3 @@
-# End-to-End-Data-Engineering-Project
-It's a End to End Data Engineering Project, specifically ELT (Extract, Load, Transform) in which I had used Netflix dataset to clean and analyze the data using SQL and Python. 
+# Netflix Data Cleaning and Analysis Project | End to End ELT Project (SQL + Python)
+
+An end-to-end Data Engineering project on Netflix dataset implementing ELT (Extract, Load, Transform) using PostgreSQL and Python. It focuses on data cleaning, data manipulation, transformation, and analysis to derive meaningful insights.
