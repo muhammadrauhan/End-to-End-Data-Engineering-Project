@@ -7,6 +7,17 @@ This project demonstrates an End-to-End Data Engineering pipeline on the Netflix
 ## Workflow / ELT Pipeline
 ![End to End ELT Project ](https://github.com/user-attachments/assets/dc79ddf8-ad06-4687-98e3-7437e13934eb)
 
+## :bar_chart: Insights Required
+The goal of this project is to analyze the Netflix dataset and extract meaningful business insights by answering the following key questions:
+- Count the number of movies and TV shows created by each director (in separate columns).
+- Identify the country with the highest number of comedy movies.
+- For each year (based on date added), find the director with the maximum number of movies released.
+- Calculate the average duration of movies in each genre.
+- List the directors who created both horror and comedy movies, along with the count of each.
+
+> [!NOTE]
+> If anyone wants to see Netflix Data Analysis, All data analysis questions are present at the bottom of the SQL script. You can view by clicking on this [Netflix Data Analysis](https://github.com/muhammadrauhan/End-to-End-Data-Engineering-Project/blob/main/data_analysis_dml_ddl_dql_queries.sql).
+
 ## :key: Key Features / Highlights
 - **End-to-End ELT Workflow:** Implemented Extract, Load, and Transform pipeline using Python and PostgreSQL.
 - **Database Integration:** Established secure connections and executed queries directly from Python.
@@ -71,15 +82,3 @@ Here I explain the data preprocessing and transformation process applied to the 
   <div align="center">
     <img width="869" height="421" alt="new-tables" src="https://github.com/user-attachments/assets/7009bc86-fc72-4917-b669-4f7b0560e699" />
   </div>
-
-## :bar_chart: Insights Required
-The goal of this project is to analyze the Netflix dataset and extract meaningful business insights by answering the following key questions:
-- Count the number of movies and TV shows created by each director (in separate columns).
-- Identify the country with the highest number of comedy movies.
-- For each year (based on date added), find the director with the maximum number of movies released.
-- Calculate the average duration of movies in each genre.
-- List the directors who created both horror and comedy movies, along with the count of each.
-
-> [!NOTE]
-> If anyone wants to see Netflix Data Analysis, All data analysis questions are present at the bottom of the SQL script. You can view by clicking on this [Netflix Data Analysis](https://github.com/muhammadrauhan/End-to-End-Data-Engineering-Project/blob/main/data_analysis_dml_ddl_dql_queries.sql).
-  
