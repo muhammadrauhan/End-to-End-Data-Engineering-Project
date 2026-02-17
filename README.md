@@ -5,7 +5,8 @@ An end-to-end Data Engineering project on Netflix dataset implementing ELT (Extr
 This project demonstrates an End-to-End Data Engineering pipeline on the Netflix dataset using Python and PostgreSQL. It covers the complete ELT (Extract, Load, Transform) process, including data extraction, cleaning (handling foreign characters, removing duplicates, filling missing values, type conversions), and transformation (creating tables, dropping unnecessary columns). Using advanced SQL techniques such as Joins, Aggregate, Window, and Built-in Functions, the project delivers meaningful data analysis and serves as a practical reference for ETL workflows, data cleaning, and real-world database management.
 
 ## Workflow / ELT Pipeline
-![End to End ELT Project ](https://github.com/user-attachments/assets/dc79ddf8-ad06-4687-98e3-7437e13934eb)
+![E2E ELT Project](https://github.com/user-attachments/assets/d6b792b7-1570-4fc9-a6a3-a2265aaea651)
+
 
 ## :bar_chart: Insights Required
 The goal of this project is to analyze the Netflix dataset and extract meaningful business insights by answering the following key questions:
